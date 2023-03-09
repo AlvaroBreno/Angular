@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom está funfando",
+      "autoria": "Eu",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Que bom está funfando 2",
+      "autoria": "Eu breno, Álvaro",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Que bom está funfando 3",
+      "autoria": "Eu",
+      "modelo": "modelo3"
+    }
+  ]
+}
